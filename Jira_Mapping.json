@@ -1,0 +1,13 @@
+{
+"default":"SU",
+"@stocksoncall":"OCSTOCKS",
+"@stocksdataoncall":"OCSTOCKS",
+"@stocksportfoliooncall":"OCSTOCKS",
+"@mfoncall":"OCMF",
+"@mfopsoncall":"OCMF",
+"@onboardingoncall":"OCONBOARD",
+"@gboncall":"OCPAYMENTS",
+"@coreoncall":"OCCORE",
+"@creditoncall":"BO",
+"@eevee-on-call":"ETP"
+}

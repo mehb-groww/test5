@@ -1,0 +1,7 @@
+{
+    "eevee-automation-reports":"https://jenkins.groww.in/view/QA/job/groww-qa-eevee-integration-suite/",
+    "upi-automation-reports":"https://jenkins.groww.in/job/groww-qa-growwpay-api-test/",
+    "credit-automation-report":"https://jenkins.groww.in/view/QA/job/groww-qa-credit-api-test/",
+    "onboarding-automation-reports":"https://jenkins.groww.in/view/QA/job/groww-qa-onboarding-api-test/",
+    "mf-automation-reports":"https://jenkins.groww.in/job/groww-qa-mf-api-test/"
+}
